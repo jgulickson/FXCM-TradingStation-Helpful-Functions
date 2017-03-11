@@ -1,4 +1,4 @@
-#FX-TradingStation-Common-Functions
+#FX-TradingStation-Helpful-Functions
 
 ##Overview
 ####Summary
