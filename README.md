@@ -1,4 +1,4 @@
-#FX-TradingStation-Common-Indicore-Functions
+#FX-TradingStation-Common-Functions
 
 ##Overview
 ####Summary
