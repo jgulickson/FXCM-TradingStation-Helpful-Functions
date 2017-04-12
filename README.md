@@ -19,6 +19,10 @@ Functions to simplify common calculation operations.
 ###### 1.0.03112017
 - ***Initial release***
 
+###### 1.1.04122017
+- ***Feature release***
+- Added Format_Thousands()
+
 #### Notification Functions
 ###### 1.0.03112017
 - ***Initial release***
